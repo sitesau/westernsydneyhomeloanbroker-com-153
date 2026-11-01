@@ -1,0 +1,22 @@
+{
+  "wheel_id": 611,
+  "structure": "umbrella",
+  "slug": "westernsydneyhomeloanbroker-com-153",
+  "project": "home-loan-broker-western-sydney-6f8d8424d18793497532fdabcdd7089",
+  "parent_t1_ref": "westernsydneyhomeloanbroker.com-009",
+  "node_role": "buffer",
+  "money_target": "westernsydneyhomeloanbroker.com.au",
+  "primary_kw": "home loan broker western sydney",
+  "intended_url": "https://aumedia.neocities.org/home-loan-broker-western-sydney-6f8d8424d18793497532fdabcdd7089/",
+  "tier": "T2",
+  "writeback_nonce": "90e783d8c6db4d2f",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/westernsydneyhomeloanbroker.com-009/home-loan-broker-western-sydney.html",
+      "anchor": "Home Loan Broker Western Sydney: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
